@@ -8,7 +8,7 @@ if num < 0:
 elif num == 0:
       print 'Zero'
 elif num == 1:
-      print 'One'
+      print 'One---'
 else:
       print 'More'
 
